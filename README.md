@@ -4,8 +4,7 @@
 
 ### 👩🏽 Quem Faz 
 - Fayra Miranda
-- Kethreen Gonçalves
-- Maria Eduarda Auler
+
 
 ### 🔗 Links 
 - Link do Surge: http://pokedex13-cruz.surge.sh/
